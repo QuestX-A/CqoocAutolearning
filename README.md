@@ -2,7 +2,7 @@
 
 [+] 如果程序运行错误，如登录不了网站，运行不了之类，请修改代码，注释齐全，一看就会！
 
-[+] QuestX向你问好，带上你的代码，加入我们！QQ：383127132
+[+] QuestX向你问好，带上你的代码，加入我们！
 
 [+] 点击一键启动
 
@@ -14,4 +14,5 @@
 
 脚本打开后是这样的，如果在网站上登陆过，就不用输入账号密码，直接点击开始学习
 
-<img width="1291" height="985" alt="image" src="https://github.com/user-attachments/assets/1e0d91bd-fdf9-419e-b552-2575bb7baf86" />
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/1e0d91bd-fdf9-419e-b552-2575bb7baf86" />
+
