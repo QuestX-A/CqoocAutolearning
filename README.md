@@ -14,5 +14,5 @@
 
 脚本打开后是这样的，如果在网站上登陆过，就不用输入账号密码，直接点击开始学习
 
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/1e0d91bd-fdf9-419e-b552-2575bb7baf86" />
+<img width="783" height="822" alt="image" src="https://github.com/user-attachments/assets/a8e66606-a616-411b-8ca3-6ecc75e5c02f" />
 
